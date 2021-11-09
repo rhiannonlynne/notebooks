@@ -1,0 +1,128 @@
+Brief description of runs
+
+baseline_retrofoot_v2.0_10yrs.db, v1.x footprint but new code capabilities
+baseline_v2.0_10yrs.db, v2.0 baseline
+bluer_indx0_v2.0_10yrs.db, More g - filter ratio in WFD of {'u': 0.07, 'g': 0.12, 'r': 0.21, 'i': 0.21, 'z': 0.19, 'y': 0.20}
+bluer_indx1_v2.0_10yrs.db, More u and g - filter ratio in WFD of {'u': 0.08, 'g': 0.11, 'r': 0.21, 'i': 0.21, 'z': 0.19, 'y': 0.20}
+carina_v2.0_10yrs.db, One week per year observing Carina
+ddf_frac_ddf_per0.6_v2.0_10yrs.db, DDF fraction of visits reduced to 3% of total
+ddf_frac_ddf_per1.6_v2.0_10yrs.db, DDF fraction of visits increased to 8%
+local_gal_bindx0_v2.0_10yrs.db, Increase local galaxy coverage {'g': 0.5, 'r': 0.2, 'i': 0.1}
+local_gal_bindx1_v2.0_10yrs.db, Increasing local galaxy coverage {'g': 1.0, 'r': 0.3, 'i': 0.1}
+local_gal_bindx2_v2.0_10yrs.db, Increasing local galaxy coverage {'g': 1.5, 'r': 0.35, 'i': 0.2}
+long_gaps_nightsoff0_delayed1827_v2.0_10yrs.db, Long gaps every night starting after year 5
+long_gaps_nightsoff0_delayed-1_v2.0_10yrs.db, Long gaps every night
+long_gaps_nightsoff1_delayed1827_v2.0_10yrs.db, Long gaps every other night starting after year 5
+long_gaps_nightsoff1_delayed-1_v2.0_10yrs.db, Long gaps every other night
+long_gaps_nightsoff2_delayed1827_v2.0_10yrs.db, Long gaps every 2 nights starting after year 5
+long_gaps_nightsoff2_delayed-1_v2.0_10yrs.db, Long gaps every 2 nights
+long_gaps_nightsoff3_delayed1827_v2.0_10yrs.db, Long gaps every 3 nights starting after year 5
+long_gaps_nightsoff3_delayed-1_v2.0_10yrs.db, Long gaps every 3 nights
+long_gaps_nightsoff4_delayed1827_v2.0_10yrs.db, Long gaps every 4 nights starting after year 5
+long_gaps_nightsoff4_delayed-1_v2.0_10yrs.db, Long gaps every 4 nights
+long_gaps_nightsoff5_delayed1827_v2.0_10yrs.db, Long gaps every 5 nights starting after year 5
+long_gaps_nightsoff5_delayed-1_v2.0_10yrs.db, Long gaps every 5 nights
+long_gaps_nightsoff6_delayed1827_v2.0_10yrs.db, Long gaps every 6 nights starting after year 5
+long_gaps_nightsoff6_delayed-1_v2.0_10yrs.db, Long gaps every 6 nights
+long_gaps_nightsoff7_delayed1827_v2.0_10yrs.db, Long gaps every 7 nights starting after year 5
+long_gaps_nightsoff7_delayed-1_v2.0_10yrs.db, Long gaps every 7 nights
+long_gaps_np_nightsoff0_delayed1827_v2.0_10yrs.db, Long gap pairs every night starting after year 5
+long_gaps_np_nightsoff0_delayed-1_v2.0_10yrs.db, Long gap pairs every night
+long_gaps_np_nightsoff1_delayed1827_v2.0_10yrs.db, Long gap pairs every other night starting after year 5
+long_gaps_np_nightsoff1_delayed-1_v2.0_10yrs.db  , Long gap pairs every other night
+long_gaps_np_nightsoff2_delayed1827_v2.0_10yrs.db, Long gap pairs every 2 nights starting after year 5
+long_gaps_np_nightsoff2_delayed-1_v2.0_10yrs.db  , Long gap pairs every 2 nights
+long_gaps_np_nightsoff3_delayed1827_v2.0_10yrs.db, Long gap pairs every 3 nights starting after year 5
+long_gaps_np_nightsoff3_delayed-1_v2.0_10yrs.db, Long gap pairs every 3 nights
+long_gaps_np_nightsoff4_delayed1827_v2.0_10yrs.db, Long gap pairs every 4 nights starting after year 5
+long_gaps_np_nightsoff4_delayed-1_v2.0_10yrs.db, Long gap pairs every 4 nights
+long_gaps_np_nightsoff5_delayed1827_v2.0_10yrs.db, long gap pairs every 5 nights starting after year 5
+long_gaps_np_nightsoff5_delayed-1_v2.0_10yrs.db, long gap pairs every 5 nights
+long_gaps_np_nightsoff6_delayed1827_v2.0_10yrs.db, long gap pairs every 6 nights starting after year 5
+long_gaps_np_nightsoff6_delayed-1_v2.0_10yrs.db, long gap pairs every 6 nights
+long_gaps_np_nightsoff7_delayed1827_v2.0_10yrs.db, long gap pairs every 7 nights starting after year 5
+long_gaps_np_nightsoff7_delayed-1_v2.0_10yrs.db, long gap pairs every 7 nights
+long_u1_v2.0_10yrs.db, u band visits 1x50s, number of u visits same as baseline
+long_u2_v2.0_10yrs.db, u band visits 1x50s, fewer number of u visits
+multi_short_v2.0_10yrs.db, Multiple (4) short (5s) exposures in each filter in a year, stop after 12.
+noroll_v2.0_10yrs.db, v2.0 baseline with no rolling
+north_stripe_v2.0_10yrs.db, Add a north stripe to Dec +30
+presto_gap1.5_mix_v2.0_10yrs.db, Triples spaced 1.5 hours apart g+i,r+z,i+y initial pairs
+presto_gap1.5_v2.0_10yrs.db, Triples spaced 1.5 hours apart g+r,r+i,i+z initial pairs
+presto_gap2.0_mix_v2.0_10yrs.db, Triples spaced 2.0 hours apart g+i,r+z,i+y initial pairs
+presto_gap2.0_v2.0_10yrs.db, Triples spaced 2.0 hours apart g+r,r+i,i+z initial pairs
+presto_gap2.5_mix_v2.0_10yrs.db, Triples spaced 2.5 hours apart g+i,r+z,i+y initial pairs
+presto_gap2.5_v2.0_10yrs.db, Triples spaced 2.5 hours apart g+r,r+i,i+z initial pairs
+presto_gap3.0_mix_v2.0_10yrs.db, Triples spaced 3.0 hours apart g+i,r+z,i+y initial pairs
+presto_gap3.0_v2.0_10yrs.db, Triples spaced 3.0 hours apart g+r,r+i,i+z initial pairs
+presto_gap3.5_mix_v2.0_10yrs.db, Triples spaced 3.5 hours apart g+i,r+z,i+y initial pairs
+presto_gap3.5_v2.0_10yrs.db, Triples spaced 3.5 hours apart g+r,r+i,i+z initial pairs
+presto_gap4.0_mix_v2.0_10yrs.db, Triples spaced 4.0 hours apart g+i,r+z,i+y initial pairs
+presto_gap4.0_v2.0_10yrs.db, Triples spaced 4.0 hours apart g+r,r+i,i+z initial pairs
+presto_half_gap1.5_mix_v2.0_10yrs.db, Triples spaced 1.5 hours apart g+i,r+z,i+y initial pairs, triples every other night
+presto_half_gap1.5_v2.0_10yrs.db, Triples spaced 1.5 hours apart g+r,r+i,i+z initial pairs, triples every other night
+presto_half_gap2.0_mix_v2.0_10yrs.db, Triples spaced 2.0 hours apart g+i,r+z,i+y initial pairs, triples every other night
+presto_half_gap2.0_v2.0_10yrs.db, Triples spaced 2.0 hours apart g+r,r+i,i+z initial pairs, triples every other night
+presto_half_gap2.5_mix_v2.0_10yrs.db, Triples spaced 2.5 hours apart g+i,r+z,i+y initial pairs, triples every other night
+presto_half_gap2.5_v2.0_10yrs.db, Triples spaced 2.5 hours apart g+r,r+i,i+z initial pairs, triples every other night
+presto_half_gap3.0_mix_v2.0_10yrs.db, Triples spaced 3.0 hours apart g+i,r+z,i+y initial pairs, triples every other night
+presto_half_gap3.0_v2.0_10yrs.db, Triples spaced 3.0 hours apart g+r,r+i,i+z initial pairs, triples every other night
+presto_half_gap3.5_mix_v2.0_10yrs.db, Triples spaced 3.5 hours apart g+i,r+z,i+y initial pairs, triples every other night
+presto_half_gap3.5_v2.0_10yrs.db, Triples spaced 3.5 hours apart g+r,r+i,i+z initial pairs, triples every other night
+presto_half_gap4.0_mix_v2.0_10yrs.db, Triples spaced 4.0 hours apart g+i,r+z,i+y initial pairs, triples every other night
+presto_half_gap4.0_v2.0_10yrs.db, Triples spaced 4.0 hours apart g+r,r+i,i+z initial pairs, triples every other night
+retro_baseline_v2.0_10yrs.db, v1.x baseline with rubin_sim (without new code capabilities)
+roll_early_v2.0_10yrs.db, Start rolling year 1
+rolling_all_sky_ns2_rw0.9_v2.0_10yrs.db, Roll on all parts of the sky
+rolling_bulge_6_v2.0_10yrs.db, Roll the bulge in 6 stripes (low-dust WFD in 2 regions)
+rolling_bulge_ns2_rw0.5_v2.0_10yrs.db, Roll in the bulge with 2 regions, 50%
+rolling_bulge_ns2_rw0.8_v2.0_10yrs.db, Roll in the bulge with 2 regions, 80%
+rolling_bulge_ns2_rw0.9_v2.0_10yrs.db, Roll in the bulge with 2 regions, 90%
+rolling_ns2_rw0.5_v2.0_10yrs.db, Rolling half-sky (2 regions) 50%
+rolling_ns2_rw0.9_v2.0_10yrs.db, Rolling half-sky (2 regions) 90%
+rolling_ns3_rw0.5_v2.0_10yrs.db, Rolling third-sky (3 regions) 50%
+rolling_ns3_rw0.9_v2.0_10yrs.db, Rolling third-sky (3 regions) 90%
+roman_v2.0_10yrs.db, Microsurvey of the Roman bulge field
+short_exp_v2.0_10yrs.db, Take up to 3 short (5s) visits in year 1
+six_rolling_ns6_rw0.5_v2.0_10yrs.db, Rolling in one-sixth sky (6 regions) 50%
+six_rolling_ns6_rw0.9_v2.0_10yrs.db, Rolling in one-sixth sky (6 regions) 90%
+smc_movie_v2.0_10yrs.db, Two nights of observing the SMC in movie mode
+too_rate10_v2.0_10yrs.db, Follow up ToO alerts, 10 events per year
+too_rate50_v2.0_10yrs.db, Follow up ToO alerts, 50 events per year
+twilight_neo_nightpattern1v2.0_10yrs.db, Twilight neo observations every night
+twilight_neo_nightpattern2v2.0_10yrs.db, Twilight neo observations every other night
+twilight_neo_nightpattern3v2.0_10yrs.db, Twilight neo observations 1 night on 2 off
+twilight_neo_nightpattern4v2.0_10yrs.db, Twilight neo observations 1 night on 3 off
+twilight_neo_nightpattern5v2.0_10yrs.db, Twilight neo observations 4 night on 4 off
+twilight_neo_nightpattern6v2.0_10yrs.db, Twilight neo observations 3 night on 4 off
+twilight_neo_nightpattern7v2.0_10yrs.db, Twilight neo observations 2 night on 4 off
+vary_expt_v2.0_10yrs.db, Vary the exposure times between 20 and 100s
+vary_gp_gpfrac0.01_v2.0_10yrs.db, Dusty plane at 1% WFD level
+vary_gp_gpfrac0.05_v2.0_10yrs.db, Dusty plane at 5% WFD level
+vary_gp_gpfrac0.10_v2.0_10yrs.db, Dusty plane at 10% WFD level
+vary_gp_gpfrac0.15_v2.0_10yrs.db, Dusty plane at 15% WFD level
+vary_gp_gpfrac0.20_v2.0_10yrs.db, Dusty plane at 20% WFD level
+vary_gp_gpfrac0.25_v2.0_10yrs.db, Dusty plane at 25% WFD level
+vary_gp_gpfrac0.30_v2.0_10yrs.db, Dusty plane at 30% WFD level
+vary_gp_gpfrac0.35_v2.0_10yrs.db, Dusty plane at 35% WFD level
+vary_gp_gpfrac0.40_v2.0_10yrs.db, Dusty plane at 40% WFD level
+vary_gp_gpfrac0.45_v2.0_10yrs.db, Dusty plane at 45% WFD level
+vary_gp_gpfrac0.50_v2.0_10yrs.db, Dusty plane at 50% WFD level
+vary_gp_gpfrac0.55_v2.0_10yrs.db, Dusty plane at 55% WFD level
+vary_gp_gpfrac0.75_v2.0_10yrs.db, Dusty plane at 75% WFD level
+vary_gp_gpfrac1.00_v2.0_10yrs.db, Dusty plane at 100% WFD level
+vary_nes_nesfrac0.01_v2.0_10yrs.db, NES at 1% WFD level
+vary_nes_nesfrac0.05_v2.0_10yrs.db, NES at 5% WFD level
+vary_nes_nesfrac0.10_v2.0_10yrs.db, NES at 10% WFD level
+vary_nes_nesfrac0.15_v2.0_10yrs.db, NES at 15% WFD level
+vary_nes_nesfrac0.20_v2.0_10yrs.db, NES at 20% WFD level
+vary_nes_nesfrac0.25_v2.0_10yrs.db, NES at 25% WFD level
+vary_nes_nesfrac0.30_v2.0_10yrs.db, NES at 30% WFD level
+vary_nes_nesfrac0.35_v2.0_10yrs.db, NES at 35% WFD level
+vary_nes_nesfrac0.40_v2.0_10yrs.db, NES at 40% WFD level
+vary_nes_nesfrac0.45_v2.0_10yrs.db, NES at 45% WFD level
+vary_nes_nesfrac0.50_v2.0_10yrs.db, NES at 50% WFD level
+vary_nes_nesfrac0.55_v2.0_10yrs.db, NES at 55% WFD level
+vary_nes_nesfrac0.75_v2.0_10yrs.db, NES at 75% WFD level
+vary_nes_nesfrac1.00_v2.0_10yrs.db, NES at 100% WFD level
+virgo_cluster_v2.0_10yrs.db, Add the virgo cluster to WFD footprint
